@@ -9,7 +9,9 @@
 <li>Implementação de medidas robustas de segurança, incluindo autenticação de usuários e controle de acesso aos recursos.</li>
 <li>Testes abrangentes com o Postman para verificar a funcionalidade correta da API em diferentes cenários e garantir a qualidade do código</li>
 </ol>
-![Captura de tela 2024-04-26 154255](https://github.com/RenanBaffi/App-Ecommerce/assets/125895715/c3c7a146-929c-4a00-b31a-c7963ebaaf04)
-![Captura de tela 2024-04-26 154317](https://github.com/RenanBaffi/App-Ecommerce/assets/125895715/8bc4dfef-d68c-41e7-8c67-2c66115ae9d0)
+
+![img 1](https://github.com/RenanBaffi/App-Ecommerce/assets/125895715/e259c642-04d7-485c-8ef9-34c8eb9bace9)
+![img 2](https://github.com/RenanBaffi/App-Ecommerce/assets/125895715/6d5e46d9-cc9d-4eb7-b6dd-dc666312b5dc)
+
 
  
