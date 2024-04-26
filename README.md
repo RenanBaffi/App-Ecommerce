@@ -4,11 +4,11 @@
 <h2>Principais Funcionalidades:</h2> 
 <ol>
 <li>Implementação de todas as funcionalidades essenciais de um sistema de e-commerce, incluindo gerenciamento de produtos, login, carrinho de compras, checkout e processamento de pedidos.</li>
-</br>
-Integração perfeita com os serviços da AWS.<br>
-Utilização do Flask para criar uma API, garantindo uma arquitetura flexível e de fácil manutenção.<br>
-Implementação de medidas robustas de segurança, incluindo autenticação de usuários e controle de acesso aos recursos.<br>
-Testes abrangentes com o Postman para verificar a funcionalidade correta da API em diferentes cenários e garantir a qualidade do código.</ol>
+<li>Integração perfeita com os serviços da AWS.</li>
+<li>Utilização do Flask para criar uma API, garantindo uma arquitetura flexível e de fácil manutenção.</li>
+<li>Implementação de medidas robustas de segurança, incluindo autenticação de usuários e controle de acesso aos recursos.</li>
+<li>Testes abrangentes com o Postman para verificar a funcionalidade correta da API em diferentes cenários e garantir a qualidade do código</li>
+</ol>
 ![Captura de tela 2024-04-26 154255](https://github.com/RenanBaffi/App-Ecommerce/assets/125895715/c3c7a146-929c-4a00-b31a-c7963ebaaf04)
 ![Captura de tela 2024-04-26 154317](https://github.com/RenanBaffi/App-Ecommerce/assets/125895715/8bc4dfef-d68c-41e7-8c67-2c66115ae9d0)
 
